@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Quick Image Saver</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        h1,
+        h2 {
+            color: #333;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Privacy Policy for Quick Image Saver</h1>
+    <p>Last updated: [Bugünün Tarihi]</p>
+
+    <h2>Information Collection and Use</h2>
+    <p>Quick Image Saver does not collect, store, or transmit any personal information or user data. The extension operates entirely within your browser and only processes image elements on the web pages you visit.</p>
+
+    <h2>Required Permissions</h2>
+    <p>The extension requires the following permissions:</p>
+    <ul>
+        <li><strong>downloads:</strong> Required only to save images to your device when you click the download button</li>
+        <li><strong>Host permissions:</strong> Required to detect images and add download buttons on web pages you visit</li>
+    </ul>
+
+    <h2>Data Storage</h2>
+    <p>This extension does not store any data, either locally or remotely.</p>
+
+    <h2>Third-party Services</h2>
+    <p>We do not use any third-party services or analytics.</p>
+
+    <h2>Changes to This Privacy Policy</h2>
+    <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have any questions about this Privacy Policy, please contact us at: [E-posta Adresiniz]</p>
+</body>
+
+</html>
